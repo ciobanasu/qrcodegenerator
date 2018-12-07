@@ -1,0 +1,14 @@
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.dll
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\bin\Debug\System.Drawing.Common.dll
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\bin\Debug\UnityEngine.dll
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csprojAssemblyReference.cache
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.cache
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CopyComplete
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+C:\Users\nikus\Documents\VisualStudioProjects\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
